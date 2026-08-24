@@ -16,7 +16,7 @@ namespace Lab02
             char rank = 'S';
             int level = 7;
             int maxHp = 240;
-            int currentHp = 175;
+            int currentHp = 132;
             float attackPower = 42.5f;
             double critMultiplier = 1.75;
             bool isBoss = true;
